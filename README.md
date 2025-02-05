@@ -3,7 +3,7 @@
   <a href="https://kukionfr.github.io" target="_blank">kukionfr.github.io</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
+  <img alt="Demo" src="./src/Assets/Kyu_logo_transparent.png" />
 </div>
 
 <br/>
