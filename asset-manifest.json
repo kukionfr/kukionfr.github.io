@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kukionfr.github.io/static/css/main.b6bfbd31.css",
+    "main.js": "/kukionfr.github.io/static/js/main.966e7e26.js",
+    "static/js/770.b477def6.chunk.js": "/kukionfr.github.io/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/kukionfr.github.io/static/js/453.1407b060.chunk.js",
+    "static/media/leaf.png": "/kukionfr.github.io/static/media/leaf.ff2616f664c8c0ceab91.png",
+    "static/media/emotion.png": "/kukionfr.github.io/static/media/emotion.eabfc16e7a146ab15778.png",
+    "static/media/suicide.png": "/kukionfr.github.io/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/codeEditor.png": "/kukionfr.github.io/static/media/codeEditor.1b585492490c8c1cace9.png",
+    "static/media/Kyu_Sang_Han_Resume_250129.pdf": "/kukionfr.github.io/static/media/Kyu_Sang_Han_Resume_250129.1868868f97f0b873ee1c.pdf",
+    "static/media/blog.png": "/kukionfr.github.io/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/home-main.svg": "/kukionfr.github.io/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/kukionfr.github.io/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/vampire.webp": "/kukionfr.github.io/static/media/vampire.ca826fc1b6258c8fbd5c.webp",
+    "static/media/home-bg.jpg": "/kukionfr.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/kukionfr.github.io/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/kukionfr.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/kukionfr.github.io/index.html",
+    "static/media/Google_Scholar_logo.svg": "/kukionfr.github.io/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
+    "main.b6bfbd31.css.map": "/kukionfr.github.io/static/css/main.b6bfbd31.css.map",
+    "main.966e7e26.js.map": "/kukionfr.github.io/static/js/main.966e7e26.js.map",
+    "770.b477def6.chunk.js.map": "/kukionfr.github.io/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/kukionfr.github.io/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6bfbd31.css",
+    "static/js/main.966e7e26.js"
+  ]
+}
