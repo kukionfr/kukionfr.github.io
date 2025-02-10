@@ -38,3 +38,19 @@ This project was built using these technologies.
 
 **📱 Fully Responsive**
 
+To deploy add the following:
+ "homepage": "https://[username].github.io" at the top of your package.json
+
+ "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",  in scripts section
+ 
+return (
+      <Router basename={process.env.PUBLIC_URL}>
+         ...
+ in App.js
+
+and then run the following in terminal
+npm run deploy
+
+Go to your github repository on github.com.
+Go to settings>github pages> select gh-pages as your branch to deploy

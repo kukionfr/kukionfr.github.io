@@ -2,12 +2,12 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.png";
-import editor from "../../Assets/Projects/codeEditor.png";
+import film from "../../Assets/Projects/film.jpg";
+import senescense from "../../Assets/Projects/emotion.png";
+import qmap from "../../Assets/Projects/qmap.jpg";
 import vampire from "../../Assets/Projects/vampire.webp";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import threedprint from "../../Assets/Projects/threed.jpg";
+import coda from "../../Assets/Projects/coda.webp";
 
 function Projects() {
   return (
@@ -34,57 +34,56 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={coda}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="CODA"
+              description="a method to reconstruct exceptionally large tissues at subcellular resolution using serially sectioned hematoxylin and eosin-stained tissue sections."
+              ghLink="https://zenodo.org/records/11130691"
+              demoLink="https://www.nature.com/articles/s41592-022-01650-9"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={qmap}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              title="microanatomy of human skin aging"
+              description="quantitative micro-anatomical phenotyping (qMAP) - that leverages deep learning and machine vision to fully label tissue and cellular compartments in tissue sections. The fully mapped tissue images address the challenges of finding an interpretable feature set to quantitatively profile age-related microanatomic changes"
+              ghLink="https://github.com/kukionfr/qMAP"
+              demoLink="https://pmc.ncbi.nlm.nih.gov/articles/PMC11244916/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={film}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              title="Generative AI FILM"
+              description="Here, we address these challenges by leveraging frame interpolation for large image motion (FILM), a generative AI model originally developed for temporal interpolation, for spatial interpolation of a range of 3D image types."
+              //ghLink=""
+              demoLink="https://pmc.ncbi.nlm.nih.gov/articles/PMC10942457/"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={threedprint}
               isBlog={false}
-              title="Ai For Social Good"
+              title="High-Resolution 3D Printing of Pancreatic Ductal Microanatomy"
               description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              //ghLink=""
+              demoLink="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/admt.202301837"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={senescense}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
+              title="Cellular Senescence and Aging"
+              description="Cellular senescence is a major driver of aging and disease. Here we show that substrate stiffness modulates the emergence and magnitude of senescence phenotypes after exposure to senescence inducers."
+              //ghLink=""
+              demoLink="https://pmc.ncbi.nlm.nih.gov/articles/PMC10871290/"
             />
           </Col>
         </Row>
