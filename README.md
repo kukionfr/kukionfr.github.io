@@ -50,6 +50,9 @@ return (
  in App.js
 
 and then run the following in terminal
+
+git remote set-url origin https://YOUR_GITHUB_USERNAME:TOKEN@github.com/YOUR_GITHUB_USERNAME/YOUR_REPO.git
+
 npm run deploy
 
 Go to your github repository on github.com.
