@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import film from "../../Assets/Projects/film.jpg";
-import senescense from "../../Assets/Projects/emotion.png";
+import senescense from "../../Assets/Projects/senescence.jpg";
 import qmap from "../../Assets/Projects/qmap.jpg";
 import vampire from "../../Assets/Projects/vampire.webp";
 import threedprint from "../../Assets/Projects/threed.jpg";
