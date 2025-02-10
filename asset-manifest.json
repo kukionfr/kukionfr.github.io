@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.33b4b850.css",
-    "main.js": "/static/js/main.842bfb3c.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.1bea499b.css",
+    "main.js": "/static/js/main.6182b3b0.js",
+    "static/js/770.b477def6.chunk.js": "/static/js/770.b477def6.chunk.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/coda.webp": "/static/media/coda.de72954b1ab9b5e24567.webp",
     "static/media/qmap.jpg": "/static/media/qmap.f0a7aae95cd2a2049a64.jpg",
     "static/media/film.jpg": "/static/media/film.e7ae732c3b8527ce6dbf.jpg",
@@ -18,13 +18,13 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "static/media/Google_Scholar_logo.svg": "/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
-    "main.33b4b850.css.map": "/static/css/main.33b4b850.css.map",
-    "main.842bfb3c.js.map": "/static/js/main.842bfb3c.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.1bea499b.css.map": "/static/css/main.1bea499b.css.map",
+    "main.6182b3b0.js.map": "/static/js/main.6182b3b0.js.map",
+    "770.b477def6.chunk.js.map": "/static/js/770.b477def6.chunk.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.33b4b850.css",
-    "static/js/main.842bfb3c.js"
+    "static/css/main.1bea499b.css",
+    "static/js/main.6182b3b0.js"
   ]
 }
