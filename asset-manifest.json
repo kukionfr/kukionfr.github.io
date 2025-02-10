@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.33b4b850.css",
-    "main.js": "/static/js/main.72b7c284.js",
+    "main.js": "/static/js/main.45de4fda.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/coda.webp": "/static/media/coda.de72954b1ab9b5e24567.webp",
@@ -19,12 +19,12 @@
     "index.html": "/index.html",
     "static/media/Google_Scholar_logo.svg": "/static/media/Google_Scholar_logo.40e3b4f719a57a3d034b854054a25c66.svg",
     "main.33b4b850.css.map": "/static/css/main.33b4b850.css.map",
-    "main.72b7c284.js.map": "/static/js/main.72b7c284.js.map",
+    "main.45de4fda.js.map": "/static/js/main.45de4fda.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33b4b850.css",
-    "static/js/main.72b7c284.js"
+    "static/js/main.45de4fda.js"
   ]
 }
