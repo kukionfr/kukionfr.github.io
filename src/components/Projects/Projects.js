@@ -47,7 +47,7 @@ function Projects() {
             <ProjectCard
               imgPath={qmap}
               isBlog={false}
-              title="microanatomy of human skin aging"
+              title="Microanatomy of Skin Aging"
               description="quantitative micro-anatomical phenotyping (qMAP) - that leverages deep learning and machine vision to fully label tissue and cellular compartments in tissue sections. The fully mapped tissue images address the challenges of finding an interpretable feature set to quantitatively profile age-related microanatomic changes"
               ghLink="https://github.com/kukionfr/qMAP"
               demoLink="https://pmc.ncbi.nlm.nih.gov/articles/PMC11244916/"
